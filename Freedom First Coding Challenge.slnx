@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FreedomFirst.CLI/FreedomFirst.CLI.csproj" />
+  <Project Path="FreedomFirst/FreedomFirst.Core.csproj" />
+</Solution>
